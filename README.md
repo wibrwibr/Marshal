@@ -2,7 +2,7 @@
 
 $ apt install python2 git
 
-$ git clone https://github.com/wibrwibr/Marshal/new/main?readme=1
+$ git clone https://github.com/wibrwibr/Marshal/tree/main
 $ cd mardis
 
 $ python2 -m pip install xdis==5.0.11
